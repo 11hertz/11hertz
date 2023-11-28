@@ -8,4 +8,3 @@
 ![11hertz's github stats](https://github-readme-stats.vercel.app/api?username=11hertz&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11hertz&layout=compact&theme=dracula)](https://github.com/11hertz)
 
-[![hits](https://github.com/11hertz)
